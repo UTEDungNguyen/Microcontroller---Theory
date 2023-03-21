@@ -1,0 +1,34 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"29 D:\Project Mplab\BTL01.X\BTL01.c
+[v _main main `(v  1 e 1 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"3388 C:/Program Files/Microchip/MPLABX/v6.00/packs/Microchip/PIC16Fxxx_DFP/1.3.42/xc8\pic\include\proc\pic16f887.h
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3450
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"4084
+[v _RA0 RA0 `VEb  1 e 0 @40 ]
+"4210
+[v _RE0 RE0 `VEb  1 e 0 @72 ]
+"4405
+[v _TRISA0 TRISA0 `VEb  1 e 0 @1064 ]
+"4501
+[v _TRISE0 TRISE0 `VEb  1 e 0 @1096 ]
+"29 D:\Project Mplab\BTL01.X\BTL01.c
+[v _main main `(v  1 e 1 0 ]
+{
+"37
+[v main@S1_state S1_state `uc  1 a 1 1 ]
+"52
+} 0

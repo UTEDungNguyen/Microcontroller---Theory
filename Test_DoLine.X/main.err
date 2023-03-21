@@ -1,0 +1,16 @@
+Compiling F:\Test_DoLine.X\main on 14-Jun-22 at 14:53
+*** Error 18 "F:\Test_DoLine.X\mcc_generated_files\mcc.h" Line 49(10,16): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\xc.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\xc.h"
+    Not in source "F:\Test_DoLine.X\mcc_generated_files\xc.h"
+    Not in local "xc.h"
+    Not in project "F:\Test_DoLine.X\xc.h"
+    Not in default "F:\Test_DoLine.X\xc.h"
+*** Error 18 "F:\Test_DoLine.X\mcc_generated_files\pin_manager.h" Line 54(10,16): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\xc.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\xc.h"
+    Not in source "F:\Test_DoLine.X\mcc_generated_files\xc.h"
+    Not in local "xc.h"
+    Not in project "F:\Test_DoLine.X\xc.h"
+    Not in default "F:\Test_DoLine.X\xc.h"
+*** Error 128 "F:\Test_DoLine.X\mcc_generated_files\pin_manager.h" Line 225(9,15): A #DEVICE required before this line
